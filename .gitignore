@@ -1,0 +1,4 @@
+# Don't track these file extensions:
+*.csv
+*.zip
+
